@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<QLS>
+  <Sach>
+    <TenLinhVuc>Lịch sử</TenLinhVuc>
+    <MaSach>SA01</MaSach>
+    <TenSach>Dai chien Bach Dang</TenSach>
+    <TenTacGia>Vu Thien Bang</TenTacGia>
+    <NamXuatBan>2002</NamXuatBan>
+    <NgonNgu>Tieng Viet</NgonNgu>
+    <SoLuong>30</SoLuong>
+    <Gia>32000</Gia>
+  </Sach>
+  <Sach>
+    <TenLinhVuc>Ngoại ngữ</TenLinhVuc>
+    <MaSach>SA02</MaSach>
+    <TenSach>Oxford Engish for Information Technology</TenSach>
+    <TenTacGia>Eric H.Glendinning</TenTacGia>
+    <NamXuatBan>2006</NamXuatBan>
+    <NgonNgu>Tieng Anh</NgonNgu>
+    <SoLuong>40</SoLuong>
+    <Gia>275000</Gia>
+  </Sach>
+  <TacGia>
+    <MaTacGia>TG01</MaTacGia>
+    <TenTacGia>Vu Thien Bang</TenTacGia>
+    <DiaChi>Dong Da, Ha Noi</DiaChi>
+    <SDT>0123456789</SDT>
+    <Email>ngotatto@gamil.com</Email>
+    <GioiTinh>Nam</GioiTinh>
+    <QuocTich>Viet Nam</QuocTich>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>TG02</MaTacGia>
+    <TenTacGia>To Huu</TenTacGia>
+    <DiaChi>Cau Giay, Ha Noi</DiaChi>
+    <SDT>0345789012</SDT>
+    <Email>tohuu@gmail.com</Email>
+    <GioiTinh>Nam</GioiTinh>
+    <QuocTich>Viet Nam</QuocTich>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>TG03</MaTacGia>
+    <TenTacGia>Ho Xuan Huong</TenTacGia>
+    <DiaChi>Rach Gia, Kien Giang</DiaChi>
+    <SDT>010199994612</SDT>
+    <Email>xuanhuong@gmail.com</Email>
+    <GioiTinh>Nữ</GioiTinh>
+    <QuocTich>Viet Nam</QuocTich>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>TG04</MaTacGia>
+    <TenTacGia>Eric H.Glendinning</TenTacGia>
+    <DiaChi>New York</DiaChi>
+    <SDT>03146875</SDT>
+    <Email>eric@gmail.com</Email>
+    <GioiTinh>Nam</GioiTinh>
+    <QuocTich>Hoa Ky</QuocTich>
+  </TacGia>
+  <TacGia>
+    <MaTacGia>TG05</MaTacGia>
+    <TenTacGia>John McEwan</TenTacGia>
+    <DiaChi>New Jersey</DiaChi>
+    <SDT>05986471</SDT>
+    <Email>john@gmail.com</Email>
+    <GioiTinh>Nam</GioiTinh>
+    <QuocTich>Hoa Kỳ </QuocTich>
+  </TacGia>
+  <LinhVuc>
+    <MaLinhVuc>LV01</MaLinhVuc>
+    <TenLinhVuc>Lịch sử</TenLinhVuc>
+  </LinhVuc>
+  <LinhVuc>
+    <MaLinhVuc>LV02</MaLinhVuc>
+    <TenLinhVuc>Công nghệ thông tin</TenLinhVuc>
+  </LinhVuc>
+  <LinhVuc>
+    <MaLinhVuc>LV03</MaLinhVuc>
+    <TenLinhVuc>Ngoại ngữ</TenLinhVuc>
+  </LinhVuc>
+  <KhachHang>
+    <MaKH>KH01</MaKH>
+    <TenKH>Nguyen Truong Long</TenKH>
+    <DiaChi>Ninh Sim, Ninh Hoa, Khanh Hoa</DiaChi>
+    <SDT>0369.147789</SDT>
+    <GioiTinh>Nam</GioiTinh>
+  </KhachHang>
+  <KhachHang>
+    <MaKH>KH02</MaKH>
+    <TenKH>Dang Hoai Phong</TenKH>
+    <DiaChi>Bay Bua, Ninh Hoa, Khanh Hoa</DiaChi>
+    <SDT>0123.852456</SDT>
+    <GioiTinh>Nam</GioiTinh>
+  </KhachHang>
+  <KhachHang>
+    <MaKH>KH03</MaKH>
+    <TenKH>Dinh Tan Phuc</TenKH>
+    <DiaChi>Viet Nam</DiaChi>
+    <SDT>0258.753159</SDT>
+    <GioiTinh>Nam</GioiTinh>
+  </KhachHang>
+  <GioHang>
+    <MaGioHang>GH01</MaGioHang>
+    <MaKhachHang>KH01</MaKhachHang>
+    <NgayMua>19/02/2020 12:00:00 AM</NgayMua>
+    <TongTien>1122000</TongTien>
+  </GioHang>
+  <KhachHang>
+    <MaKH>KH04</MaKH>
+    <TenKH>Rin Scarlet</TenKH>
+    <DiaChi>USA</DiaChi>
+    <SDT>0159753846</SDT>
+    <GioiTinh>Nam</GioiTinh>
+  </KhachHang>
+  <Sach>
+    <TenLinhVuc>Công nghệ thông tin</TenLinhVuc>
+    <MaSach>SA03</MaSach>
+    <TenSach>Java Core</TenSach>
+    <TenTacGia>John McEwan</TenTacGia>
+    <NamXuatBan>2019</NamXuatBan>
+    <NgonNgu>Tieng Anh</NgonNgu>
+    <SoLuong>28</SoLuong>
+    <Gia>125000</Gia>
+  </Sach>
+  <Sach>
+    <TenLinhVuc>Công nghệ thông tin</TenLinhVuc>
+    <MaSach>SA04</MaSach>
+    <TenTenSach>Learning JavaScript</TenTenSach>
+    <TenTacGia>Eric H.Glendinning</TenTacGia>
+    <NamXuatBan>2010</NamXuatBan>
+    <NgonNgu>Tieng Anh</NgonNgu>
+    <SoLuong>13</SoLuong>
+    <Gia>145000</Gia>
+  </Sach>
+  <LinhVuc>
+    <MaLinhVuc>LV05</MaLinhVuc>
+    <TenLinhVuc>Giáo dục</TenLinhVuc>
+  </LinhVuc>
+  <GioHang>
+    <MaGioHang>GH02</MaGioHang>
+    <MaKhachHang>KH01</MaKhachHang>
+    <NgayMua>01/06/2020 12:00:00 AM</NgayMua>
+    <TongTien>2064000</TongTien>
+  </GioHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH02</MaGioHang>
+    <MaSach>SA01</MaSach>
+    <SoLuongMua>2</SoLuongMua>
+    <GiaBan>64000</GiaBan>
+  </ChiTietGioHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH02</MaGioHang>
+    <MaSach>SA01</MaSach>
+    <SoLuongMua>2</SoLuongMua>
+    <GiaBan>64000</GiaBan>
+  </ChiTietGioHang>
+  <KhachHang>
+    <MaKH>KH05</MaKH>
+    <TenKH>Trinh Thi Thu Hang</TenKH>
+    <DiaChi>Viet Nam</DiaChi>
+    <SDT>0789456123</SDT>
+    <GioiTinh>Nữ</GioiTinh>
+  </KhachHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH02</MaGioHang>
+    <MaSach>SA03</MaSach>
+    <SoLuongMua>5</SoLuongMua>
+    <GiaBan>625000</GiaBan>
+  </ChiTietGioHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH01</MaGioHang>
+    <MaSach>SA04</MaSach>
+    <SoLuongMua>2</SoLuongMua>
+    <GiaBan>290000</GiaBan>
+  </ChiTietGioHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH01</MaGioHang>
+    <MaSach>SA04</MaSach>
+    <SoLuongMua>5</SoLuongMua>
+    <GiaBan>725000</GiaBan>
+  </ChiTietGioHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH01</MaGioHang>
+    <MaSach>SA01</MaSach>
+    <SoLuongMua>1</SoLuongMua>
+    <GiaBan>32000</GiaBan>
+  </ChiTietGioHang>
+  <LinhVuc>
+    <MaLinhVuc>LV07</MaLinhVuc>
+    <TenLinhVuc>Vật lý</TenLinhVuc>
+  </LinhVuc>
+  <LinhVuc>
+    <MaLinhVuc>LV08</MaLinhVuc>
+    <TenLinhVuc>Toán học</TenLinhVuc>
+  </LinhVuc>
+  <Sach>
+    <TenLinhVuc>Tiểu thuyết</TenLinhVuc>
+    <MaSach>SA05</MaSach>
+    <TenSach>Your name</TenSach>
+    <TenTacGia>John McEwan</TenTacGia>
+    <NamXuatBan>2018</NamXuatBan>
+    <NgonNgu>Tieng Nhat</NgonNgu>
+    <SoLuong>19</SoLuong>
+    <Gia>175000</Gia>
+  </Sach>
+  <Sach>
+    <TenLinhVuc>Giáo dục</TenLinhVuc>
+    <MaSach>SA06</MaSach>
+    <TenSach>Giáo dục kĩ năng sống</TenSach>
+    <TenTacGia>Eric H.Glendinning</TenTacGia>
+    <NamXuatBan>2016</NamXuatBan>
+    <NgonNgu>Tieng Viet</NgonNgu>
+    <SoLuong>20</SoLuong>
+    <Gia>55000</Gia>
+  </Sach>
+  <TacGia>
+    <MaTacGia>TG07</MaTacGia>
+    <TenTacGia>Fujiko Fujio</TenTacGia>
+    <DiaChi>Nhật Bản</DiaChi>
+    <SDT>0369753159</SDT>
+    <Email>fujiko@gmail.com</Email>
+    <GioiTinh>Nam</GioiTinh>
+    <QuocTich>Nhật Bản </QuocTich>
+  </TacGia>
+  <LinhVuc>
+    <MaLinhVuc>LV09</MaLinhVuc>
+    <TenLinhVuc>Tiểu thuyết</TenLinhVuc>
+  </LinhVuc>
+  <Sach>
+    <TenLinhVuc>Toán học</TenLinhVuc>
+    <MaSach>SA07</MaSach>
+    <TenSach>Lý thuyết đồ thị</TenSach>
+    <TenTacGia>Vu Thien Bang</TenTacGia>
+    <NamXuatBan>2006</NamXuatBan>
+    <NgonNgu>Tieng Viet</NgonNgu>
+    <SoLuong>30</SoLuong>
+    <Gia>45000</Gia>
+  </Sach>
+  <KhachHang>
+    <MaKH>KH06</MaKH>
+    <TenKH>Johan</TenKH>
+    <DiaChi>USA</DiaChi>
+    <SDT>0159753846</SDT>
+    <GioiTinh>Nữ</GioiTinh>
+  </KhachHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH01</MaGioHang>
+    <MaSach>SA05</MaSach>
+    <SoLuongMua>1</SoLuongMua>
+    <GiaBan>175000</GiaBan>
+  </ChiTietGioHang>
+  <LinhVuc>
+    <MaLinhVuc>LV010</MaLinhVuc>
+    <TenLinhVuc>Văn học </TenLinhVuc>
+  </LinhVuc>
+  <GioHang>
+    <MaGioHang>GH03</MaGioHang>
+    <MaKhachHang>KH03</MaKhachHang>
+    <NgayMua>27/06/2020 12:00:00 AM</NgayMua>
+    <TongTien>2250000</TongTien>
+  </GioHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH03</MaGioHang>
+    <MaSach>SA02</MaSach>
+    <SoLuongMua>5</SoLuongMua>
+    <GiaBan>1375000</GiaBan>
+  </ChiTietGioHang>
+  <ChiTietGioHang>
+    <MaGioHang>GH03</MaGioHang>
+    <MaSach>SA03</MaSach>
+    <SoLuongMua>7</SoLuongMua>
+    <GiaBan>875000</GiaBan>
+  </ChiTietGioHang>
+</QLS>
